@@ -1,0 +1,11 @@
+<?php
+// Fill in the blanks to create an associative array with three key-value pairs
+$person = [
+    'name' => 'John',
+    'age' => 25,
+    'profession' => 'Engineer'
+];
+
+// Access the value by the key 'name' and print it to the screen
+echo 'Name: ' . $person['name'];
+?>
