@@ -1,0 +1,6 @@
+<?php
+$array = ['cat', 'dog', 'bird'];
+
+// Access the second element of the array and print it to the screen
+echo "The second element of the array is: " . $array[1];
+?>
