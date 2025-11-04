@@ -1,0 +1,11 @@
+<?php
+$temperature = 75;
+
+if ($temperature > 80) {
+    echo "It's hot outside.";
+} else if ($temperature > 60) {
+    echo "It's warm";
+} else  {
+    echo "The weather is cool.";
+}
+?>
