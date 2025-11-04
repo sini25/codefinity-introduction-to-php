@@ -1,0 +1,12 @@
+<?php
+$price_of_chocolate = 5;
+
+if($price_of_chocolate <=3) {
+    echo "This chocolate bar has an average price.";
+}
+
+if($price_of_chocolate > 3) {
+    echo "This chocolate bar is expensive.";
+}
+?>
+
