@@ -1,0 +1,3 @@
+<?php
+$year = 2003;       // Create a variable
+?>
