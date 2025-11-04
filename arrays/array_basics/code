@@ -1,0 +1,4 @@
+<?php
+//Create an array with three specific strings inside square brackets 
+$list = ['apple', 'banana', 'cherry'];
+?>
