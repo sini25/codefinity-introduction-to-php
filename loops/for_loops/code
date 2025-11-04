@@ -1,0 +1,7 @@
+<?php
+$message = "Programming is fun!"; // Message to output
+$count = 3; // The number of times to display the message
+for ($i = 1; $i <= $count; $i++) {
+    echo $message . "\n"; // The newline symbol `\n` moves the text to the next line, like pressing Enter.
+}
+?>
